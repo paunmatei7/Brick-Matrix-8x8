@@ -10,6 +10,8 @@ Omul mereu incepe la pozitia (0,4)
 Omul trage mereu, se misca automat la stanga, la dreapta se misca cu comanda data de pe joystick.
 
 Ca mesaj de inceput, apare un "HI" pentru 2 secunde.
+
+
 Pe serial monitor, initial apare mesajul "Jocul a inceput", la fiecare moment de timp apare scorul jucatorului. La fiecare 
 multiplu de 3 apare "next level" insemnand ca nivelul o sa apara din ce in ce mai des linii noi. In momentul in care jucatorul
 pierde, apare mesajul "GAME OVER scor final x", x fiind scorul final.
