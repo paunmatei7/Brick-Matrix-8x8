@@ -21,12 +21,15 @@ loop:
   - se verifica daca vreo linie este plina
   
   cazul 1: 
+      
       - afisam "HI" pe matricea de 8x8
       
   cazul 2:  
+      
       - afisam "jocul a inceput" pe serial monitor
       
   cazul 3: 
+      
       - la fiecare TimpIntreLinii timp coboram matricea cu o linie
       
       - verificam dificultatea, daca scorul e multipul de 3 scade TimpIntreLinii
@@ -34,6 +37,7 @@ loop:
       - verificam daca jocul s-a terminat sau nu   
       
    cazul 4:
+      
       - Jocul s-a terminat se afiseaza mesajul "Game over. Scor final x";
       
  mesajStart: afiseaza mesajul HI pe matrice
