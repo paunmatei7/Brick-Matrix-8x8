@@ -40,19 +40,35 @@ loop:
       
       - Jocul s-a terminat se afiseaza mesajul "Game over. Scor final x";
       
- mesajStart: afiseaza mesajul HI pe matrice
+ mesajStart: 
+      
+      -afiseaza mesajul HI pe matrice
  
- mesajStartOff: sterge ce este pe ecranul matricei;
+ mesajStartOff: 
+      
+      -sterge ce este pe ecranul matricei;
  
- shoot: momentul in care omul arunca o bila in partea de sus a matricei
+ shoot: 
+       
+       -momentul in care omul arunca o bila in partea de sus a matricei
  
- command: comanda de pe joystick.
+ command:
+       
+       -comanda de pe joystick.
  
- checkAlive: verifica daca jocul s-a terminat sau nu
+ checkAlive: 
+       
+       -verifica daca jocul s-a terminat sau nu
  
- cob: coboara cu o linie toata matricea formata pana in momentul acela
+ cob: 
+       
+       -coboara cu o linie toata matricea formata pana in momentul acela
  
- acoperaGol: acopera de la linia plina pana jos toata valorile cu 0
+ acoperaGol: 
+       
+       -acopera de la linia plina pana jos toata valorile cu 0
  
- dif: creste sau nu dificultate daca scorul este multiplu de 3
+ dif: 
+       
+       -creste sau nu dificultate daca scorul este multiplu de 3
  
