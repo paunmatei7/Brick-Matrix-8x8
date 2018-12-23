@@ -28,7 +28,9 @@ loop:
       
   cazul 3: 
       - la fiecare TimpIntreLinii timp coboram matricea cu o linie
+      
       - verificam dificultatea, daca scorul e multipul de 3 scade TimpIntreLinii
+      
       - verificam daca jocul s-a terminat sau nu   
       
    cazul 4:
