@@ -19,7 +19,7 @@ cum functioneaza:
 loop:
   - se efectueaza comanda
   - se verifica daca vreo linie este plina
-  cazul 1 - afisam "HI" pe matricea de 8x8
+  cazul 1: - afisam "HI" pe matricea de 8x8
         2 - afisam "jocul a inceput" pe serial monitor
         3 - la fiecare TimpIntreLinii timp coboram matricea cu o linie
           - verificam dificultatea, daca scorul e multipul de 3 scade TimpIntreLinii
