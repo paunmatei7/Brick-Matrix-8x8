@@ -19,6 +19,7 @@ cum functioneaza:
 loop:
   - se efectueaza comanda
   - se verifica daca vreo linie este plina
+  
   cazul 1: 
       - afisam "HI" pe matricea de 8x8
   cazul 2:  
