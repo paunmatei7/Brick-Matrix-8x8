@@ -135,9 +135,7 @@ void command() {   //interpretarea datelor primite de la joystick
          
      lc.setLed(0, col, row, true);
      state[col][row] = 1;
-     CheckAlive();
-      //checkCer();              //dupa fiecare comanda de la jucator, verifica daca s-a completat vreun rand si eventual il sterge
-      
+     CheckAlive();      
     }
  }
 
