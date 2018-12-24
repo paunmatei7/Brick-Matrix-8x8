@@ -11,6 +11,7 @@ Omul trage mereu, se misca automat la stanga, la dreapta se misca cu comanda dat
 
 Ca mesaj de inceput, apare un "HI" pentru 2 secunde.
 
+Video: https://www.youtube.com/watch?v=7GEIrwVZzMg
 
 Pe serial monitor, initial apare mesajul "Jocul a inceput", la fiecare moment de timp apare scorul jucatorului. La fiecare 
 multiplu de 3 apare "next level" insemnand ca nivelul o sa apara din ce in ce mai des linii noi. In momentul in care jucatorul
